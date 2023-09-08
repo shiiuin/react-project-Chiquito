@@ -5,7 +5,19 @@
   text-align: center;
 }
 
-.logo {
+.container{
+  height: 100vh;
+  width: auto;
+}
+
+.container h1{
+  text-transform: uppercase;
+}
+
+
+
+
+/* .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
@@ -39,4 +51,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
